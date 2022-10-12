@@ -1,0 +1,11 @@
+{
+    "googleServices" : "google-services.json",
+    
+    "keystorePass" : "Itengshe.1",
+    "keyaliasName" : "its_rummy_android",
+    "keyaliasPass" : "Itengshe.1",
+    "keystoreName" : "rummy.keystore",
+    
+    "packageName"  : "com.its.bunnyrummy",
+    "appName"  : "xxx"
+}
