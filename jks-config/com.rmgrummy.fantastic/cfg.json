@@ -1,0 +1,11 @@
+{
+    "googleServices" : "google-services.json",
+
+    "keystorePass" : "Rmgstation.1",
+    "keyaliasName" : "rmg_rummy_android",
+    "keyaliasPass" : "Rmgstation.1",
+    "keystoreName" : "rmgstation-fantastic.jks",
+    
+    "packageName"  : "com.rmgrummy.fantastic",
+    "appName"  : "Fantastic Rummy"
+}

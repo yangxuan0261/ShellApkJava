@@ -1,0 +1,11 @@
+{
+    "googleServices" : "google-services.json",
+    
+    "keystorePass" : "12345678a",
+    "keyaliasName" : "yangx",
+    "keyaliasPass" : "12345678a",
+    "keystoreName" : "yangx.jks",
+    
+    "packageName"  : "com.rmgstation.rummymon",
+    "appName"  : "xxx"
+}
