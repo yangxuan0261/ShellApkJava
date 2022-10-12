@@ -1,0 +1,4 @@
+ext {
+    name = "hello"
+    age = 123
+}

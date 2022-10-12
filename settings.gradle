@@ -1,1 +1,2 @@
-include ':app'
+include ':app_shell'
+include ':app_src'
